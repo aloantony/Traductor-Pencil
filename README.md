@@ -1,6 +1,6 @@
 # 📦 Pencil Text Manager v3.3 (Beta)
 
-Herramienta para extraer, traducir y reemplazar cadenas de texto en prototipos `.epgz` de **Pencil Project**, manteniendo siempre el formato original (ZIP o GZIP‑TAR).
+Herramienta para extraer, traducir y reemplazar cadenas de texto en prototipos `.epgz` de **Pencil**.
 
 > No traduce todo, revisar.
 
