@@ -8,7 +8,7 @@ Herramienta para extraer, traducir y reemplazar cadenas de texto en prototipos `
 
 ## ⚙️ Requisitos
 
-* **Python 3.10–3.12** instalado.
+* **Python 3.10–3.12** instalado. Yo he usado Python 3.12.0, os dejo aquí el enlace de descarga: https://www.python.org/downloads/release/python-3120/
 * Paquete de traducción automática:
 
   ```bash
